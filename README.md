@@ -1,5 +1,8 @@
 # browser-use
 
+Prerequisite: 
+export OPENAI_API_KEY="YOUR_KEY"
+
 # Upgrade de Python3.10 a Python3.11
 
  Check python version use python and python3
